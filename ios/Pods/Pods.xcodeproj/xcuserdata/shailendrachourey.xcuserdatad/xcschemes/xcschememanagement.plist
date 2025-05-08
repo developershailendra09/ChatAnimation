@@ -49,12 +49,17 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>RNAudioRecorderPlayer.xcscheme</key>
+		<key>RNSVG-RNSVGFilters.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>RNFileViewer.xcscheme</key>
+		<key>RNSVG.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RNVectorIcons.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -405,6 +410,16 @@
 			<false/>
 		</dict>
 		<key>react-native-document-picker.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>react-native-image-picker-RNImagePickerPrivacyInfo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>react-native-image-picker.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
